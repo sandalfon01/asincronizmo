@@ -10,5 +10,9 @@
     "javascript"
   ],
   "author": "wilmar hernandez sandalfon01@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
 }
